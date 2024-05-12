@@ -1,3 +1,3 @@
 # GitHub-Scala
 My First Git Repository
-Author: Naushad Ahamad
+Author : Naushad Ahamad
